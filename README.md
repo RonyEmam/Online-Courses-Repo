@@ -2,4 +2,4 @@
 
 ### The certificate:
 
-![](MyCertificate.pdf)
+![](14.04.2022_20.04.24_REC.png)
