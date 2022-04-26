@@ -11,3 +11,9 @@
 ### The Certificate of Completion:
 
 ![](https://github.com/RonyEmam/Online-Courses-Repo/blob/main/MachineHack%20Courses/Principal%20Component%20Analysis/23.04.2022_07.43.57_REC.png)
+
+# Multiple Linear Regression
+
+### The Certificate of Completion:
+
+![](https://github.com/RonyEmam/Online-Courses-Repo/blob/main/MachineHack%20Courses/Multiple%20Linear%20Regression/26.04.2022_17.12.13_REC.png)
