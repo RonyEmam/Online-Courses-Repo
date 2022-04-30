@@ -17,3 +17,9 @@
 ### The Certificate of Completion:
 
 ![](https://github.com/RonyEmam/Online-Courses-Repo/blob/main/MachineHack%20Courses/Multiple%20Linear%20Regression/26.04.2022_17.12.13_REC.png)
+
+# Polynomial Regression for Non-Linear Modelling
+
+### The Certificate of Completion:
+
+![](https://github.com/RonyEmam/Online-Courses-Repo/blob/main/MachineHack%20Courses/Polynomial%20Regression%20for%20Non-Linear%20Modelling/30.04.2022_02.46.53_REC.png)
