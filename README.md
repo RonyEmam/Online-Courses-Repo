@@ -23,3 +23,9 @@
 ### The Certificate of Completion:
 
 ![](https://github.com/RonyEmam/Online-Courses-Repo/blob/main/MachineHack%20Courses/Polynomial%20Regression%20for%20Non-Linear%20Modelling/30.04.2022_02.46.53_REC.png)
+
+# Support Vector Machine for Regression
+
+### The Certificate of Completion:
+
+![](https://github.com/RonyEmam/Online-Courses-Repo/blob/main/MachineHack%20Courses/Support%20Vector%20Machine%20for%20Regression/12.05.2022_18.42.12_REC.png)
